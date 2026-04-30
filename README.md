@@ -47,3 +47,7 @@ This improves performance and real-time responsiveness.
 Station, Access Point, and Dual Mode
 
 TCP/IP stack integrated
+
+**Bluetooth:**
+
+Classic Bluetooth + BLE (Bluetooth Low Energy)
