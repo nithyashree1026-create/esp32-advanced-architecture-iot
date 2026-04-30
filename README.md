@@ -29,3 +29,5 @@ ROM: Pre-programmed bootloader & libraries
 External Flash support (typically 4MB+)
 
 **🔹 Key Insight:**
+
+The dual-core architecture allows task separation:
