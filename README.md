@@ -19,3 +19,5 @@ Dual-core processor (PRO CPU + APP CPU)
 Clock frequency: up to 240 MHz
 
 Supports symmetric multiprocessing (SMP)
+
+**🔹 Memory Architecture:**
