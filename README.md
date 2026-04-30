@@ -21,3 +21,9 @@ Clock frequency: up to 240 MHz
 Supports symmetric multiprocessing (SMP)
 
 **🔹 Memory Architecture:**
+
+SRAM: ~520 KB (internal)
+
+ROM: Pre-programmed bootloader & libraries
+
+External Flash support (typically 4MB+)
