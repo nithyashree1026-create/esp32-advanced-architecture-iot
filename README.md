@@ -77,3 +77,11 @@ PWM (Motor & LED control)
 ADC (Analog to Digital Conversion)
 
 DAC (Digital to Analog Conversion)
+
+**Special Features:**
+
+Touch-sensitive GPIOs
+
+Hall effect sensor (built-in)
+
+Capacitive sensing
