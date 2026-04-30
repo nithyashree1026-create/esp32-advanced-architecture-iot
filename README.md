@@ -59,3 +59,21 @@ MQTT communication for IoT systems
 HTTP/HTTPS web servers
 
 OTA (Over-The-Air) firmware updates
+
+## GPIO & Peripheral Capabilities
+
+ESP32 provides highly flexible GPIO configuration.
+
+**Interfaces Supported:**
+
+UART (Serial communication)
+
+SPI (High-speed peripheral communication)
+
+I2C (Sensor interfacing)
+
+PWM (Motor & LED control)
+
+ADC (Analog to Digital Conversion)
+
+DAC (Digital to Analog Conversion)
