@@ -51,3 +51,11 @@ TCP/IP stack integrated
 **Bluetooth:**
 
 Classic Bluetooth + BLE (Bluetooth Low Energy)
+
+**Advanced Use Cases:**
+
+MQTT communication for IoT systems
+
+HTTP/HTTPS web servers
+
+OTA (Over-The-Air) firmware updates
