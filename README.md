@@ -38,4 +38,12 @@ Core 1 → User application logic
 
 This improves performance and real-time responsiveness.
 
-**Connectivity Stack**
+## Connectivity Stack
+
+**Wi-Fi Features:**
+
+802.11 b/g/n support
+
+Station, Access Point, and Dual Mode
+
+TCP/IP stack integrated
