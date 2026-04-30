@@ -37,3 +37,5 @@ Core 0 → System tasks (Wi-Fi, Bluetooth stack)
 Core 1 → User application logic
 
 This improves performance and real-time responsiveness.
+
+**📡 Connectivity Stack**
