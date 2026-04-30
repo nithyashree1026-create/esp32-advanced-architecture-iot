@@ -6,3 +6,6 @@ This document focuses on the internal architecture, advanced features, and real-
 **esp32-advanced-architecture-iot**
 
 Description: Advanced ESP32 architecture, FreeRTOS, connectivity, power optimization, and real-world IoT system design insights for embedded engineering applications.
+**🧠 Internal Architecture**
+
+The ESP32 is built around a dual-core Tensilica Xtensa LX6 processor.
