@@ -31,3 +31,7 @@ External Flash support (typically 4MB+)
 **🔹 Key Insight:**
 
 The dual-core architecture allows task separation:
+
+Core 0 → System tasks (Wi-Fi, Bluetooth stack)
+
+Core 1 → User application logic
